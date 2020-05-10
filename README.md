@@ -5,6 +5,6 @@ It is written in C, and it has two sections.
 
 1. First part is to detect light using the 4 photoresistors and rotating the servo motors accordingly
 
-2. Second section is for the Bluetooth control mode, which allows user to control the movement of machine using Andriod device.
+2. Second section is for the Bluetooth control mode, which allows the user to control the movement of the robot using an Android device.
 
-Install this app on Google Play to connect to Arduino Module: Arduino Servo Motor Control
+Install this app on Google Play to connect to the Arduino Controllor: Arduino Servo Motor Control
