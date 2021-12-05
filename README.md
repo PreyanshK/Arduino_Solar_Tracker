@@ -1,4 +1,6 @@
 # Arduino_Solar_Tracker
+Here is a link that showcases the project: https://www.youtube.com/watch?v=Bedm1EY5JDc&ab_channel=PreyanshKachhia
+
 This is the code for my automated Arduino Solar Tracker
 
 It is written in C, and it has two sections.
